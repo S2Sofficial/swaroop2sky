@@ -6,7 +6,7 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
 
 ### Unleash the Power of your Mobile Phones
    - Save this Playlist --> [Mobile Programming](https://youtube.com/playlist?list=PL0USrqsImzsh3BE5zdVsUMUbQ44I5dr05)
-   ![Image](https://github.com/S2Sofficial/swaroop2sky/blob/main/IMG_20210618_130117.jpg)
+   ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/IMG_20210618_130117.jpg)
 
 ### Swaroop2sky Playlists on YouTube
 
