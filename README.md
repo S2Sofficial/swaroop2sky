@@ -18,7 +18,7 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
 
 • [Let's Code in - Class12](https://youtube.com/playlist?list=PL0USrqsImzsgNZptZijbjq4Nm_6HnVsdf)
 
- ![Image](https://github.com/S2Sofficial/swaroop2sky/blob/main/Adobe_Post_20210114_1135430.7807461954061066.png)
+ ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/Adobe_Post_20210114_1135430.7807461954061066.png)
 
 #### Python Libraries or Modules
  • [Playing with Pandas - Python Pandas](https://youtube.com/playlist?list=PL0USrqsImzsjrN142v473yPax7sqqbJGY)
@@ -34,13 +34,13 @@ Here is the [Channel Link](https://youtube.com/channel/UCwtEt0HV9AR4LLCFWNRLDvg)
  • [Networking by Swaroop2sky -Networking for 12th IP or CS](https://youtube.com/playlist?list=PL0USrqsImzsj3GGEcgbNkJhZlPSbHkrDH)
 
  • [MySQL by Swaroop2sky - MySQL for 12th IP or CS](https://youtube.com/playlist?list=PL0USrqsImzsgfA-s2tuK-Y8pQjjchBSkG)
- ![Image](https://github.com/S2Sofficial/swaroop2sky/blob/main/IMG_20210618_123859.jpg)
+ ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/IMG_20210618_123859.jpg)
 
 #### [Learn Git & GitHub in Android](https://youtu.be/UAWCh4wBeec)
- ![Image](https://github.com/S2Sofficial/swaroop2sky/blob/main/Adobe_Post_20210522_0015010.6130287419020171.png)
+ ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/Adobe_Post_20210522_0015010.6130287419020171.png)
 
 #### [Matplotlib-Pyplot Lectures](https://youtu.be/vrExFOrBWo8)
- ![Image](https://github.com/S2Sofficial/swaroop2sky/blob/main/IMG_20210425_083142.jpg)
+ ![Image](https://raw.githubusercontent.com/S2Sofficial/swaroop2sky/main/IMG_20210425_083142.jpg)
 
 ### Swaroop2sky on Socials
 Instagram [@swaroop2sky](https://www.instagram.com/swaroop2sky/)
