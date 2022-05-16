@@ -2,7 +2,8 @@
 
 # Welcome to Swaroop2sky 👋 [![Awesome](https://camo.githubusercontent.com/d8154c78b3a347615e997033b1c4a56ccabe6e611c814f5b152d8caee8065254/68747470733a2f2f7974332e67677068742e636f6d2f7974632f41415576776e6972466f6c683045646473466c6c764b65775a637267784d445530556976424773456c4471483d733930302d632d6b2d63307830306666666666662d6e6f2d726a)](https://avatars.githubusercontent.com/u/75105593?s=200&v=4)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/S2Sofficial)
-![Repo Size](https://github-size-badge.herokuapp.com/S2sofficial/swaroop2sky.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/S2sofficial/swaroop2sky?color=red)
+![GitHub](https://img.shields.io/github/license/s2sofficial/Swaroop2sky?color=green)
 
 
 - 🙋 **A short introduction** - Here we do very amazing things & we live in a different dimension of the World.
