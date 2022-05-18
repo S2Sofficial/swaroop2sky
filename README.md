@@ -4,6 +4,7 @@
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/S2Sofficial)
 ![GitHub repo size](https://img.shields.io/github/repo-size/S2sofficial/swaroop2sky?color=red)
 ![GitHub](https://img.shields.io/github/license/s2sofficial/Swaroop2sky?color=green)
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/S2Sofficial/Swaroop2sky" />
 
 #### 🤯 Beta Release Swaroop2sky site 
 
